@@ -1,22 +1,39 @@
+.logo{
+align-content: center;
+width: 50%;
+height: 50%;
+ margin: 0 auto;
+background-color: none;
+padding-bottom: 50px;
+padding-top: 2%;
+
+
+}
+
+
+.logo2{
+		align-content: center;
+		 width: 80%;
+ margin: 0 auto;
+ /*background-color: black;*/
+ float: inherit;
+/* width:10vh ;
+height:10vh;
+*/
+}
+
+
+img{
+background-color: black;
+border:1px;
+margin:2px;
+
+}
+
 body{
-	
+	background-color: yellow;
 }
 
 
-.center{
-	align-content: center;
-	text-align: center;
-
-}
 
 
-.perro{
-
-	background-image: img/perro.gif;
-	background-size: over;
-	background-image: url("img/perro.gif");
-    background-color: #cccccc;
-
-
-
-}
