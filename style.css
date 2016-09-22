@@ -1,0 +1,22 @@
+body{
+	
+}
+
+
+.center{
+	align-content: center;
+	text-align: center;
+
+}
+
+
+.perro{
+
+	background-image: img/perro.gif;
+	background-size: over;
+	background-image: url("img/perro.gif");
+    background-color: #cccccc;
+
+
+
+}
