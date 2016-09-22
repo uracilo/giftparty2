@@ -1,19 +1,25 @@
+body{
+	background-color: yellow;
+	align-content: center;
+	margin-left: 20%;
+}
+
+
+
 .logo{
-align-content: center;
-width: 50%;
-height: 50%;
- margin: 0 auto;
-background-color: none;
-padding-bottom: 50px;
-padding-top: 2%;
-
-
+width: 100%;
+    height: 70px;
+    align-content: flex-end;
+    margin: 15%;
+    background-color: none;
+    padding-bottom: 2px;
+    padding-top: 2%;
 }
 
 
 .logo2{
 		align-content: center;
-		 width: 80%;
+	width: auto;
  margin: 0 auto;
  /*background-color: black;*/
  float: inherit;
@@ -27,14 +33,8 @@ img{
 background-color: black;
 border:1px;
 margin:2px;
-
 }
 
-body{
-	background-color: yellow;
-	align-content: center;
-	
-}
 
 
 .content{
@@ -53,9 +53,12 @@ body{
 
 .cube{
 	background-color: black;
-	//padding-top: 100%;
+	padding-top: 1%;
 	margin: 20px;
 }
 
 
-
+.center{
+ width: 100%;
+ margin: 0 auto;
+ }
