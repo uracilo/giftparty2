@@ -32,8 +32,30 @@ margin:2px;
 
 body{
 	background-color: yellow;
+	align-content: center;
+	
 }
 
+
+.content{
+	width: auto;
+	margin: auto;
+	background-color: none;
+	color:black;
+	height: 50vh;
+}
+
+.content_cube{
+	width: 25%;
+	float: left;
+	
+}
+
+.cube{
+	background-color: black;
+	//padding-top: 100%;
+	margin: 20px;
+}
 
 
 
